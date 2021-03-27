@@ -1,0 +1,86 @@
+"HeroGuide"
+{
+	"Hero"	"alchemist"
+	"Title"	"F228` Alchemist"
+	"GuideRevision"	"1"
+	"FileVersion"	"1"
+	"Scratch"	"0"
+
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"	"item_quelling_blade"
+				"item"	"item_tango"
+				"item"	"item_stout_shield"
+			}
+			"First items"
+			{
+				"item"	"item_maelstrom"
+				"item"	"item_phase_boots"
+			}
+			"2"
+			{
+				"item"	"item_maelstrom"
+				"item"	"item_invis_sword"
+			}
+			"Final"
+			{
+				"item"	"item_travel_boots"
+				"item"	"item_mjollnir"
+				"item"	"item_silver_edge"
+				"item"	"item_greater_crit"
+				"item"	"item_desolator"
+				"item"	"item_radiance"
+			}
+			"if u need smth else"
+			{
+				"item"	"item_heart"
+				"item"	"item_satanic"
+				"item"	"item_abyssal_blade"
+				"item"	"item_butterfly"
+				"item"	"item_ultimate_scepter"
+				"item"	"item_manta"
+			}
+		}
+		"ItemTooltips"
+		{
+				"item_hand_of_midas"	"Собираем мидас и фармим им по кулдауну до тех пор, пока не соберем 5 слотов , потом его следует продать."
+				"item_mjollnir"	"Советую сначала покупать Maelstorm для более быстрого фарма крипов, затем Hyperstone и рецепт."
+		}
+	}
+
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"	"alchemist_goblins_greed"
+			"2"	"alchemist_acid_spray"
+			"3"	"alchemist_goblins_greed"
+			"4"	"alchemist_unstable_concoction"
+			"5"	"alchemist_goblins_greed"
+			"6"	"alchemist_chemical_rage"
+			"7"	"alchemist_acid_spray"
+			"8"	"alchemist_unstable_concoction"
+			"9"	"alchemist_acid_spray"
+			"10"	"alchemist_goblins_greed"
+			"11"	"alchemist_chemical_rage"
+			"12"	"alchemist_acid_spray"
+			"13"	"alchemist_unstable_concoction"
+			"14"	"alchemist_unstable_concoction"
+			"15"	"attribute_bonus"
+			"16"	"alchemist_chemical_rage"
+			"17"	"attribute_bonus"
+			"18"	"attribute_bonus"
+			"19"	"attribute_bonus"
+			"20"	"attribute_bonus"
+			"21"	"attribute_bonus"
+			"22"	"attribute_bonus"
+			"23"	"attribute_bonus"
+			"24"	"attribute_bonus"
+			"25"	"attribute_bonus"
+		}
+	}
+}
